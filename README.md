@@ -5,7 +5,7 @@ This repository contains my final DSA-INCUBATOR project case study of PALMORIA C
  with the informations provided i am supposed to analyse the data and report my findings which relates to the gender inequality scandal, this project involved analysing Palmoria's gender distribution, salary structure, compliance and performance-based bonus allocation using Power Bi.
 
  ## Analysis Carried Out.
-         1. Gender Distribution by Region and Department:
+         1. Gender Distribution By Region And Department.
 Visualized using matrix and bar charts to show the spread of male and female employees across departments and regions.
 
 
