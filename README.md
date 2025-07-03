@@ -43,12 +43,6 @@ d)Page navigation setup for dashboard usability
 
 #### MY ANALYSIS
 
-
-
-
-
-
-
 This analysis equips Palmoria with clear insights to support HR decisions, ensure compliance, and manage compensation equitably across the organization and above all confame the scandal or debunk the gender inequality accussations with hard evidence.
 
 
