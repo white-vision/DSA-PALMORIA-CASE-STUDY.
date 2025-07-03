@@ -29,6 +29,7 @@ Showed how employee salaries are spread across different bands and locations.
 Calculated individual bonus amounts using performance ratings and merged bonus rules data. Also determined total pay (salary + bonus) per employee and summarized company-wide payouts by region.
 
 
+
 ## Tools used
 
 a)Calculated columns & DAX measures
@@ -38,6 +39,15 @@ b)Bar charts, matrix tables, slicers, and cards
 c)Salary banding logic
 
 d)Page navigation setup for dashboard usability 
+
+
+#### ANALYSIS
+
+
+
+
+
+
 
 This analysis equips Palmoria with clear insights to support HR decisions, ensure compliance, and manage compensation equitably across the organization and above all confame the scandal or debunk the gender inequality accussations with hard evidence.
 
