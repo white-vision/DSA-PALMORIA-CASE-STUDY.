@@ -1,5 +1,5 @@
 # DSA-PALMORIA-CASE-STUDY.
-This repository contains my final DSA-INCUBATOR project case study of PALMORIA COMPANY.
+HELLO, this repository contains my final DSA-INCUBATOR project case study of PALMORIA COMPANY.
 
  Due to a scaldal on PALMORIA COMPANY, some sets of datas containg Employee's details which include Name, Department, Region, Rating and Salary where shared including the bonus mapping for the year.
  with the informations provided i am supposed to analyse the data and report my findings which relates to the gender inequality scandal, this project involved analysing Palmoria's gender distribution, salary structure, compliance and performance-based bonus allocation using Power Bi.
@@ -44,6 +44,6 @@ d)Page navigation setup for dashboard usability
 #### MY ANALYSIS
 
 This analysis equips Palmoria with clear insights to support HR decisions, ensure compliance, and manage compensation equitably across the organization and above all confame the scandal or debunk the gender inequality accussations with hard evidence.
-
+Kindly view recent uploaded file named "ANALYSED PALMORIA DATA" to check out my visualised findings using Power Bi.
 
 
